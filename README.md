@@ -61,9 +61,6 @@ Achievements & Contributions:
 - Included professional skills and areas of expertise
 - Made downloadable CV for easy reference
 
-GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajansingh07&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansingh07&theme=tokyonight" height="160" /> </p>
-
 Contact:
 - GitHub: rajansingh07
 - LinkedIn: Rajan Kumar
